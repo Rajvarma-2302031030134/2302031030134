@@ -1,0 +1,1671 @@
+.travelaja12 {
+  position: relative;
+  line-height: 40px;
+  white-space: nowrap;
+}
+.logo12 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 0;
+}
+.links42 {
+  position: relative;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 48px;
+}
+.home5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.links43 {
+  position: relative;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 69px;
+}
+.discover6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.links44 {
+  position: relative;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 67px;
+}
+.services10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.links45 {
+  position: relative;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 45px;
+}
+.news4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 20px;
+}
+.links46 {
+  position: relative;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 57px;
+}
+.explore10,
+.services-link {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.explore10 {
+  padding: 10px 20px;
+  cursor: pointer;
+  z-index: 1;
+  margin-left: -2px;
+  color: #000;
+}
+.services-link {
+  padding: 0 15px 0 0;
+  color: #35976a;
+}
+.links47 {
+  position: relative;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 66px;
+}
+.contact11,
+.menus-wrapper2,
+.menus6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact11 {
+  flex-direction: row;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.menus-wrapper2,
+.menus6 {
+  margin: 0;
+}
+.menus6 {
+  flex-direction: row;
+  padding: 0 1px 0 0;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Poppins;
+}
+.menus-wrapper2 {
+  flex-direction: column;
+  padding: 5.5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.login-child3 {
+  height: 52px;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 15px;
+  background-color: transparent;
+}
+.log3 {
+  color: #000;
+}
+.span3 {
+  color: #fff;
+}
+.in3 {
+  color: #000;
+}
+.log-in6 {
+  height: 54px;
+  flex: 1;
+  position: relative;
+  font-size: 24px;
+  line-height: 120%;
+  font-family: Poppins;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.login-wrapper7,
+.login11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.login11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0 0 1px;
+  background-color: transparent;
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+  white-space: nowrap;
+}
+.login-wrapper7 {
+  width: 120px;
+  flex-direction: column;
+  padding: 2.5px 0 0;
+  box-sizing: border-box;
+}
+.navbar-frame,
+.navbar6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.navbar6 {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+  text-align: left;
+  font-size: 33.2px;
+  color: #295943;
+  font-family: Poppins;
+}
+.navbar-frame {
+  width: 1209px;
+  justify-content: flex-end;
+  padding: 0 14px;
+  box-sizing: border-box;
+}
+.mask-group-icon3 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.our-news2 {
+  width: 202px;
+  position: relative;
+  line-height: 40px;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-parent53,
+.our-news1 {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.our-news1 {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 174px 21px 56px;
+  position: relative;
+  z-index: 1;
+  margin-top: -10px;
+}
+.frame-parent53 {
+  flex-direction: column;
+  align-items: flex-end;
+  max-width: 100%;
+  text-align: left;
+  font-size: 33.2px;
+  color: #fff;
+  font-family: Poppins;
+}
+.top-trending3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.explore-child1 {
+  height: 52px;
+  width: 147px;
+  position: relative;
+  border-radius: 20px;
+  background-color: #35976a;
+  display: none;
+}
+.explore12 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 54px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 122px;
+  z-index: 1;
+}
+.explore11,
+.frame-wrapper18,
+.top-trending-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.explore11 {
+  border-radius: 20px;
+  background-color: #35976a;
+  justify-content: flex-start;
+  padding: 0 9px 0 16px;
+  cursor: pointer;
+  font-size: 32px;
+  color: #fff;
+  font-family: Poppins;
+}
+.frame-wrapper18,
+.top-trending-parent1 {
+  max-width: 100%;
+}
+.top-trending-parent1 {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-wrapper18 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 18px 0 0;
+  box-sizing: border-box;
+}
+.amazing-goa-stay-child1 {
+  width: 330px;
+  height: 375.2px;
+  position: relative;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.amazing-goa-stay7,
+.image-10-icon3 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.image-10-icon3 {
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.amazing-goa-stay7 {
+  height: 98.6px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.image-10-parent1 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15.4px;
+}
+.days-from-200003 {
+  position: relative;
+  white-space: pre-wrap;
+  z-index: 1;
+}
+.amazing-goa-stay6,
+.upper-deck-resort-gold-valle-child1 {
+  height: 375.2px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.amazing-goa-stay6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 27.1px 23px 17.4px 25px;
+  gap: 19.4px;
+}
+.upper-deck-resort-gold-valle-child1 {
+  width: 330px;
+  position: relative;
+  display: none;
+}
+.image-11-icon3,
+.upper-deck-resort3 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.image-11-icon3 {
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.upper-deck-resort3 {
+  height: 98.6px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.image-11-parent1 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16.4px;
+}
+.days-from-213003 {
+  position: relative;
+  white-space: pre-wrap;
+  z-index: 1;
+}
+.magical-vacay-in-jaipur-jodhp-child1,
+.upper-deck-resort-gold-valle3 {
+  height: 375.2px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.upper-deck-resort-gold-valle3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 27.1px 25px 24.2px;
+  gap: 11.6px;
+}
+.magical-vacay-in-jaipur-jodhp-child1 {
+  width: 330px;
+  position: relative;
+  display: none;
+}
+.image-12-icon3,
+.magical-vacay-in3 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.image-12-icon3 {
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.magical-vacay-in3 {
+  height: 98.6px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.image-12-parent1 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15.4px;
+}
+.days-from-145003 {
+  position: relative;
+  white-space: pre-wrap;
+  z-index: 1;
+}
+.days-from-14500-wrapper1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 4px;
+}
+.amazing-goa-stay-parent1,
+.magical-vacay-in-jaipur-jodhp3 {
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.magical-vacay-in-jaipur-jodhp3 {
+  height: 375.2px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding: 27.1px 23px 35.8px 25px;
+  gap: 1px;
+}
+.amazing-goa-stay-parent1 {
+  width: 1146px;
+  display: grid;
+  flex-direction: row;
+  gap: 78px;
+  grid-template-columns: repeat(3, minmax(247px, 1fr));
+  font-size: 20px;
+}
+.frame-parent54,
+.our-news-inner {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent54 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 40.8px;
+}
+.our-news-inner {
+  width: 1214px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 21px 102px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 40px;
+  color: #000;
+  font-family: Inter;
+}
+.travelaja-articles {
+  position: relative;
+  line-height: 120%;
+}
+.travelaja-articles-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.it-is-very {
+  position: relative;
+  font-size: 16px;
+  line-height: 180%;
+}
+.frame-parent56,
+.frame-wrapper19 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent56 {
+  width: 618px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.frame-wrapper19 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+  box-sizing: border-box;
+}
+.adventure-travel {
+  position: relative;
+  font-size: 16px;
+  line-height: 29px;
+  font-family: Poppins;
+  color: #fff;
+  text-align: left;
+}
+.adventure-travel-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 10px 20px;
+  background-color: #43b97f;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.adventure-travel-wrapper:hover {
+  background-color: #29a166;
+}
+.beach {
+  position: relative;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 52px;
+}
+.beach-wrapper {
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 20px;
+  color: #43b97f;
+}
+.explore-world {
+  position: relative;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 114px;
+}
+.explore-world-wrapper {
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 20px;
+}
+.family-holidays {
+  position: relative;
+  line-height: 29px;
+}
+.family-holidays-wrapper {
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 20px;
+}
+.art-and-culture {
+  position: relative;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 124px;
+}
+.art-and-culture-wrapper,
+.frame-parent57 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.art-and-culture-wrapper {
+  border-radius: 5px;
+  justify-content: flex-start;
+  padding: 10px 20px;
+}
+.frame-parent57 {
+  justify-content: center;
+  gap: 20px;
+  font-size: 16px;
+}
+.frame-parent55 {
+  width: 845px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 50px;
+  max-width: 100%;
+}
+.our-news-child {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 22px 21px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 27.6px;
+  color: #3d3e48;
+  font-family: Poppins;
+}
+.frame-child18,
+.where-can-i {
+  align-self: stretch;
+  position: relative;
+}
+.frame-child18 {
+  height: 331px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.where-can-i {
+  line-height: 180%;
+}
+.september-19-2022 {
+  width: 174px;
+  position: relative;
+  font-size: 16px;
+  line-height: 29px;
+  color: #3d3e48;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+.frame-parent59,
+.where-can-i-go-5-amazing-coun-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.where-can-i-go-5-amazing-coun-parent {
+  align-self: stretch;
+}
+.frame-parent59 {
+  gap: 20px;
+  max-width: 100%;
+}
+.beautiful-view-of,
+.frame-child19 {
+  align-self: stretch;
+  position: relative;
+}
+.frame-child19 {
+  height: 331px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.beautiful-view-of {
+  line-height: 35px;
+}
+.september-19-20221 {
+  width: 174px;
+  position: relative;
+  font-size: 16px;
+  line-height: 29px;
+  color: #3d3e48;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+.beautiful-view-of-indians-nat-parent,
+.frame-parent60 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.beautiful-view-of-indians-nat-parent {
+  align-self: stretch;
+  gap: 35px;
+}
+.frame-parent60 {
+  gap: 20px;
+  max-width: 100%;
+}
+.image-14-icon {
+  align-self: stretch;
+  height: 331px;
+  position: relative;
+  border-radius: 10px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.indian-destinations-you {
+  align-self: stretch;
+  position: relative;
+  line-height: 180%;
+}
+.september-19-20222 {
+  width: 174px;
+  position: relative;
+  font-size: 16px;
+  line-height: 29px;
+  color: #3d3e48;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+.frame-parent58,
+.image-14-parent,
+.page-footer {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.page-footer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+.frame-parent58,
+.image-14-parent {
+  gap: 20px;
+  max-width: 100%;
+}
+.image-14-parent {
+  display: flex;
+  flex-direction: column;
+}
+.frame-parent58 {
+  align-self: stretch;
+  display: grid;
+  flex-direction: row;
+  padding: 0 0 0 12px;
+  box-sizing: border-box;
+  grid-template-columns: repeat(3, minmax(285px, 1fr));
+}
+.frame-child20,
+.mountains-that-you {
+  align-self: stretch;
+  position: relative;
+}
+.frame-child20 {
+  height: 331px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.mountains-that-you {
+  line-height: 180%;
+}
+.september-19-20223 {
+  width: 174px;
+  position: relative;
+  font-size: 16px;
+  line-height: 29px;
+  color: #3d3e48;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+.frame-parent62,
+.monthly-promos {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent62 {
+  padding: 0 0 0 12px;
+  gap: 20px;
+}
+.image-15-icon {
+  align-self: stretch;
+  height: 324px;
+  position: relative;
+  border-radius: 10px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.indian-destinations-you1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 180%;
+}
+.september-19-20224 {
+  width: 174px;
+  position: relative;
+  font-size: 16px;
+  line-height: 29px;
+  color: #3d3e48;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+.frame-parent61,
+.image-15-parent,
+.page-footer1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.page-footer1 {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 0 0 12px;
+}
+.frame-parent61,
+.image-15-parent {
+  align-items: flex-end;
+}
+.image-15-parent {
+  align-self: stretch;
+  gap: 20px;
+}
+.frame-parent61 {
+  width: 392px;
+  gap: 27px;
+  min-width: 255px;
+  max-width: 100%;
+}
+.image-13-icon {
+  align-self: stretch;
+  height: 331px;
+  position: relative;
+  border-radius: 10px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.the-most-interesting {
+  align-self: stretch;
+  position: relative;
+  line-height: 180%;
+}
+.september-19-20225 {
+  width: 174px;
+  position: relative;
+  font-size: 16px;
+  line-height: 29px;
+  color: #3d3e48;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+.image-13-parent,
+.the-most-interesting-historica-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-13-parent {
+  gap: 20px;
+}
+.frame-child21 {
+  align-self: stretch;
+  height: 331px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.travel-booking-before {
+  align-self: stretch;
+  position: relative;
+  line-height: 180%;
+}
+.september-19-20226 {
+  width: 174px;
+  position: relative;
+  font-size: 16px;
+  line-height: 29px;
+  color: #3d3e48;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+.frame-parent63,
+.frame-parent64,
+.travel-booking-before-missing-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.travel-booking-before-missing-parent {
+  align-self: stretch;
+}
+.frame-parent63,
+.frame-parent64 {
+  gap: 20px;
+}
+.frame-parent64 {
+  align-self: stretch;
+}
+.frame-parent63 {
+  width: 380px;
+  max-width: 100%;
+}
+.frame-child22 {
+  align-self: stretch;
+  height: 331px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.travel-booking-before1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 180%;
+}
+.september-19-20227 {
+  width: 174px;
+  position: relative;
+  font-size: 16px;
+  line-height: 29px;
+  color: #3d3e48;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+.frame-parent66,
+.travel-booking-before-missing-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent66 {
+  gap: 20px;
+}
+.frame-child23,
+.where-can-i1 {
+  align-self: stretch;
+  position: relative;
+}
+.frame-child23 {
+  height: 331px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.where-can-i1 {
+  line-height: 180%;
+}
+.september-19-20228 {
+  width: 174px;
+  position: relative;
+  font-size: 16px;
+  line-height: 29px;
+  color: #3d3e48;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+.frame-parent65,
+.frame-parent67,
+.where-can-i-go-5-amazing-coun-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.where-can-i-go-5-amazing-coun-group {
+  align-self: stretch;
+}
+.frame-parent65,
+.frame-parent67 {
+  gap: 20px;
+}
+.frame-parent67 {
+  align-self: stretch;
+}
+.frame-parent65 {
+  width: 380px;
+  max-width: 100%;
+}
+.indian-mountains {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 20px;
+}
+.card,
+.card-wrapper,
+.indian-mountains {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.card {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 20px;
+}
+.card-wrapper {
+  width: 1230px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 19px 28px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 19.2px;
+  color: #000;
+  font-family: Poppins;
+}
+.footer-child3 {
+  height: 447px;
+  width: 1241px;
+  position: relative;
+  background-color: #295943;
+  display: none;
+  max-width: 100%;
+}
+.travelaja13 {
+  position: relative;
+  line-height: 40px;
+}
+.logo13 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+  z-index: 1;
+}
+.infotravelajacom6,
+.travelaja-g-4-amar6 {
+  margin: 0;
+}
+.travelaja-g-4-amar-container6 {
+  height: 124px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.logo-parent3,
+.travelaja-g-4-amar-complex-s-wrapper3 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.travelaja-g-4-amar-complex-s-wrapper3 {
+  flex-direction: row;
+  padding: 0 0 0 10px;
+  font-size: 16px;
+}
+.logo-parent3 {
+  flex-direction: column;
+  gap: 10px;
+}
+.ikuti-kami7 {
+  position: relative;
+  line-height: 35px;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 101px;
+  z-index: 1;
+}
+.ikuti-kami-wrapper3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 10px;
+}
+.vector-icon29,
+.vector-icon30 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.vector-icon31 {
+  width: 24px;
+  height: 18.5px;
+  position: relative;
+}
+.vector-wrapper3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.7px 0 0;
+}
+.vector-icon32 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.vector-icon33 {
+  height: 23.4px;
+  width: 24px;
+  position: relative;
+}
+.frame-parent68,
+.frame-parent69,
+.vector-parent5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-parent5 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 5px 10px;
+  gap: 10px;
+  z-index: 1;
+}
+.frame-parent68,
+.frame-parent69 {
+  width: 198px;
+  flex-direction: column;
+  gap: 7.7px;
+  font-size: 19.2px;
+}
+.frame-parent68 {
+  width: 303.2px;
+  padding: 0 86.2px 0 0;
+  box-sizing: border-box;
+  gap: 94.8px;
+  font-size: 33.2px;
+}
+.links48 {
+  position: relative;
+  line-height: 35px;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 51px;
+  z-index: 1;
+}
+.links-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 11px;
+}
+.link181 {
+  position: relative;
+  display: inline-block;
+  min-width: 69px;
+}
+.link180 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 10px;
+}
+.link183 {
+  position: relative;
+  display: inline-block;
+  min-width: 108px;
+}
+.link182 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 10px;
+}
+.link185 {
+  position: relative;
+  display: inline-block;
+  min-width: 67px;
+}
+.link-wrapper41,
+.link184 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 10px;
+}
+.link-wrapper41 {
+  padding: 0 1px;
+}
+.link187 {
+  position: relative;
+  display: inline-block;
+  min-width: 95px;
+}
+.child-link,
+.link186 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 10px;
+}
+.child-link {
+  padding: 0 1px;
+}
+.link189 {
+  position: relative;
+  display: inline-block;
+  min-width: 72px;
+}
+.link-wrapper42,
+.link188 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 10px;
+}
+.link-wrapper42 {
+  padding: 0 1px;
+}
+.link-parent17 {
+  z-index: 1;
+  font-size: 16px;
+}
+.follow-us,
+.frame-parent70,
+.link-parent17 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent70 {
+  gap: 15px;
+}
+.follow-us {
+  padding: 17px 0 0;
+}
+.services11 {
+  position: relative;
+  line-height: 35px;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 84px;
+  z-index: 1;
+}
+.services-wrapper4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 11px;
+}
+.link191 {
+  position: relative;
+  display: inline-block;
+  min-width: 72px;
+}
+.link190 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 10px;
+}
+.link193 {
+  position: relative;
+  display: inline-block;
+  min-width: 114px;
+}
+.link192 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 10px;
+}
+.link195 {
+  position: relative;
+}
+.link-wrapper43,
+.link194 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 10px;
+}
+.link-wrapper43 {
+  padding: 0 0 0 1px;
+}
+.link197 {
+  position: relative;
+  display: inline-block;
+  min-width: 109px;
+}
+.link-wrapper44,
+.link196 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 10px;
+}
+.link-wrapper44 {
+  padding: 0 1px;
+}
+.link199 {
+  position: relative;
+  display: inline-block;
+  min-width: 89px;
+}
+.link-wrapper45,
+.link198 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 10px;
+}
+.link-wrapper45 {
+  padding: 0 1px;
+}
+.link-parent18 {
+  z-index: 1;
+  font-size: 16px;
+}
+.follow-us1,
+.frame-parent71,
+.link-parent18 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent71 {
+  gap: 15px;
+}
+.follow-us1 {
+  padding: 17px 25.5px 0 0;
+}
+.contact12 {
+  position: relative;
+  line-height: 35px;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 81px;
+  z-index: 1;
+}
+.contact-wrapper4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 11px;
+}
+.link201 {
+  position: relative;
+}
+.link200 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 10px;
+}
+.link203 {
+  position: relative;
+  display: inline-block;
+  min-width: 129px;
+}
+.link202 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 10px;
+}
+.link205 {
+  position: relative;
+}
+.link-wrapper46,
+.link204 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 10px;
+}
+.link-wrapper46 {
+  padding: 0 1px;
+}
+.link207 {
+  position: relative;
+}
+.link-wrapper47,
+.link206 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.link206 {
+  flex: 1;
+  padding: 5px 10px;
+}
+.link-wrapper47 {
+  align-self: stretch;
+  padding: 0 0 0 1px;
+}
+.link209 {
+  position: relative;
+}
+.link208 {
+  flex-direction: row;
+  padding: 5px 10px;
+}
+.link-parent19,
+.link-wrapper48,
+.link208 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-wrapper48 {
+  flex-direction: row;
+  padding: 0 1px;
+}
+.link-parent19 {
+  align-self: stretch;
+  z-index: 1;
+  font-size: 16px;
+}
+.follow-us2,
+.frame-parent72,
+.link-parent19 {
+  flex-direction: column;
+  max-width: 100%;
+}
+.frame-parent72 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+}
+.follow-us2 {
+  width: 322px;
+  padding: 17px 0 0;
+  box-sizing: border-box;
+}
+.follow-us2,
+.footer5,
+.our-news {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer5 {
+  background-color: #295943;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 43.4px 38.5px 38.1px 49px;
+  box-sizing: border-box;
+  gap: 64.6px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 19.2px;
+  color: #fff;
+  font-family: Poppins;
+}
+.our-news {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  gap: 32px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1150px) {
+  .amazing-goa-stay-parent1 {
+    gap: 39px;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .menus-wrapper2 {
+    display: none;
+  }
+  .our-news2 {
+    font-size: 27px;
+    line-height: 32px;
+  }
+  .top-trending3 {
+    font-size: 32px;
+  }
+  .explore12 {
+    font-size: 26px;
+    line-height: 46px;
+  }
+  .amazing-goa-stay-parent1 {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(247px, 429px));
+  }
+  .frame-parent57 {
+    flex-wrap: wrap;
+  }
+  .frame-parent58 {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(285px, 494px));
+  }
+  .travelaja13 {
+    font-size: 27px;
+    line-height: 32px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .top-trending-parent1 {
+    flex-wrap: wrap;
+  }
+  .amazing-goa-stay-parent1 {
+    gap: 19px;
+    grid-template-columns: minmax(247px, 1fr);
+  }
+  .frame-parent54 {
+    gap: 20px;
+  }
+  .our-news-inner {
+    padding-bottom: 66px;
+    box-sizing: border-box;
+  }
+  .frame-parent58 {
+    grid-template-columns: minmax(285px, 1fr);
+  }
+  .footer5 {
+    gap: 32px;
+    padding-left: 24px;
+    box-sizing: border-box;
+  }
+  .our-news {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .our-news2 {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .top-trending3 {
+    font-size: 24px;
+  }
+  .explore12 {
+    font-size: 19px;
+    line-height: 35px;
+  }
+  .amazing-goa-stay7,
+  .days-from-200003 {
+    font-size: 16px;
+  }
+  .amazing-goa-stay6 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .days-from-213003,
+  .upper-deck-resort3 {
+    font-size: 16px;
+  }
+  .upper-deck-resort-gold-valle3 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .days-from-145003,
+  .magical-vacay-in3 {
+    font-size: 16px;
+  }
+  .magical-vacay-in-jaipur-jodhp3 {
+    padding-top: 20px;
+    padding-bottom: 23px;
+    box-sizing: border-box;
+  }
+  .travelaja-articles {
+    font-size: 22px;
+    line-height: 26px;
+  }
+  .frame-parent55 {
+    gap: 25px;
+  }
+  .beautiful-view-of-indians-nat-parent {
+    gap: 17px;
+  }
+  .travelaja13 {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .frame-parent68 {
+    gap: 47px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .footer5 {
+    gap: 16px;
+    padding-top: 28px;
+    padding-bottom: 25px;
+    box-sizing: border-box;
+  }
+}
